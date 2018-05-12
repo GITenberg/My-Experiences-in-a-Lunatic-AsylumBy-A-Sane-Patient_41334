@@ -1,0 +1,31 @@
+_repo: My-Experiences-in-a-Lunatic-AsylumBy-A-Sane-Patient_41334
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41334-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Merivale, Herman Charles
+    aliases:
+    - Merivale, Herman C. (Herman Charles)
+    - Merivale, H. C. (Herman Charles)
+    - Dale, Felix
+    birthdate: 1839
+    deathdate: 1906
+    gutenberg_agent_id: '41118'
+    url: http://www.gutenberg.org/2009/agents/41118
+description: ''
+gutenberg_issued: '2012-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insanity (Law)'
+- !lcsh 'Mentally ill -- Care'
+- !lcc 'RC'
+title: "My Experiences in a Lunatic Asylum\r\nBy a Sane Patient"
+url: http://www.gutenberg.org/ebooks/41334
